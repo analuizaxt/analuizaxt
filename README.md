@@ -25,11 +25,11 @@
 <br/>
 
 <a href="https://github.com/hwurricane" title="Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hwurricane&theme=dracula&show_icons=true" />
 </a>
 
 ## How to find me
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/analutavares)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/analutavares)](www.linkedin.com/in/analutavares)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.luiza.souza.tavares@icb.ufpa.br)](mailto:ana.souza.tavares@icb.ufpa.br)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/hwurricane))
