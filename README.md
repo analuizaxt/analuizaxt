@@ -1,16 +1,35 @@
-## Hi there 👋
+## About Me
 
-<!--
-**hwurricane/hwurricane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Undergraduate student in Biotechnology at the Federal University of Pará (UFPA).
+- Neuroscience and Neurophysiology, through the computational processing of biological time series.
+- Graphic Designer in spare time.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Applications and data**
+
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+
+
+**Development tools**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Adobe](https://img.shields.io/badge/Adobe-black?style=flat-square&logo=adobe)
+![Canva](https://img.shields.io/badge/Canva-black?style=flat-square&logo=canva)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion)
+
+
+<br/>
+
+<a href="https://github.com/hwurricane" title="Profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## How to find me
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/analutavares)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.luiza.souza.tavares@icb.ufpa.br)](mailto:ana.souza.tavares@icb.ufpa.br)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/hwurricane))
