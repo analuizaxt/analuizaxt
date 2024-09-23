@@ -15,8 +15,8 @@
 
 **Development tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-black?logo=vscode)
+![Trello](https://img.shields.io/badge/Trello-black?logo=trello)
 ![Adobe](https://img.shields.io/badge/Adobe-black?style=flat-square&logo=adobe)
 ![Canva](https://img.shields.io/badge/Canva-black?style=flat-square&logo=canva)
 ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion)
