@@ -30,6 +30,6 @@
 
 ## How to find me
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/analutavares)](www.linkedin.com/in/analutavares)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.luiza.souza.tavares@icb.ufpa.br)](mailto:ana.souza.tavares@icb.ufpa.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/hwurricane))
+[![Linkedin](https://img.shields.io/badge/-analutavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/analutavares)](www.linkedin.com/in/analutavares)
+[![Gmail Badge](https://img.shields.io/badge/-ana.souza.tavares@icb.ufpa.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana.luiza.souza.tavares@icb.ufpa.br)](mailto:ana.souza.tavares@icb.ufpa.br)
+[![GitHub](https://img.shields.io/github/followers/hwurricane?label=follow&style=social)]((https://github.com/hwurricane))
