@@ -24,7 +24,7 @@
 
 <br/>
 
-<a href="https://github.com/hwurricane" title="Profile">
+<a href="https://github.com/analuizaxt" title="Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hwurricane&theme=dracula&show_icons=true" />
 </a>
 
