@@ -25,7 +25,7 @@
 <br/>
 
 <a href="https://github.com/analuizaxt" title="Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hwurricane&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaxt&theme=dracula&show_icons=true" />
 </a>
 
 ## How to find me
