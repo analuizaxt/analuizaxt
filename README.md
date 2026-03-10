@@ -1,6 +1,6 @@
 ## About Me
 
-- Undergraduate student in Biotechnology at the Federal University of Pará (UFPA).
+- Master's student in electrical engineering at the Federal University of Pará.
 - Neuroscience and Neurophysiology, through the computational processing of biological time series.
 - Graphic Designer in spare time.
 
