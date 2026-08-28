@@ -44,8 +44,3 @@ My background also includes scientific programming, computational modeling, math
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-analutavares-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analutavares)
 [![Email](https://img.shields.io/badge/Email-ana.souza.tavares%40icb.ufpa.br-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ana.souza.tavares@icb.ufpa.br)
 
-<br/>
-
-<a href="https://github.com/analuizaxt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizaxt&show_icons=true&hide_border=true" />
-</a>
